@@ -1,0 +1,19 @@
+.cart {
+    margin: 2rem;
+}
+
+.summary { 
+    margin: 1rem;
+    text-align: left;
+}
+
+.summary div{ 
+    margin: 1rem 0;
+}
+
+.summary button { 
+    width: 120px;
+    height: 25px;
+    background-color: var(--light-color);
+    cursor: pointer;
+}
